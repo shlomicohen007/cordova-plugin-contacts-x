@@ -248,7 +248,7 @@ window.ContactsX.save(
   {
     firstName: "Hans",
     familyName: "Test",
-    phoneNumebers: [{
+    phoneNumbers: [{
       type: "mobile",
       value: "110"
     }]
